@@ -1,0 +1,27 @@
+{
+  "name": "helloworldwideweb",
+  "version": "1.0.0",
+  "description": "test node.js",
+  "main": "nodeserver.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/easmith03/HelloWorldWideWeb.git"
+  },
+  "keywords": [
+    "node",
+    "javascript",
+    "express"
+  ],
+  "author": "Eric Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/easmith03/HelloWorldWideWeb/issues"
+  },
+  "homepage": "https://github.com/easmith03/HelloWorldWideWeb#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
